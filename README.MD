@@ -15,10 +15,11 @@ You have to provide respective design for the app ('My twit'). which is the app 
 ** Noted **
 - Commit message will consider
 - Free to use react front-end libraries for design (ex: Material-UI)
+- After 22nd June 2021 8:00 pm  will not consider this project  
  
 ### All end points
 
-`BASE URL = https://jsonplaceholder.typicode.com/`
+BASE URL = ` https://jsonplaceholder.typicode.com/ `
 
  ``` 
 GET	/posts
@@ -32,3 +33,6 @@ DELETE	/posts/1
 ```
 
 Example => get => `https://jsonplaceholder.typicode.com/posts` to get all posts
+
+Thank You 
+Demonbruster ☺
