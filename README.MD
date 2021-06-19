@@ -34,5 +34,4 @@ DELETE	/posts/1
 
 Example => get => `https://jsonplaceholder.typicode.com/posts` to get all posts
 
-Thank You 
-Demonbruster ☺
+Thank You ☺
